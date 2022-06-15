@@ -1,3 +1,4 @@
-### ooi, eu sou Sayuri👋
+### ooi
 
-- 🌱 Eu estou aprendendo Java Script
+- Me chamo Sayuri
+- estou aprendendo Java Script
