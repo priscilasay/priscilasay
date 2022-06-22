@@ -1,4 +1,4 @@
 ### ooi
 
 - Me chamo Sayuri
-- estou aprendendo Java Script
+- estou aprendendo HTLM
