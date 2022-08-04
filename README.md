@@ -1,4 +1,4 @@
-### ooi
+### ooi 🤗
 
-- Me chamo Sayuri
-- estou aprendendo HTLM
+- Me chamo Sayuri🌸
+- estou aprendendo HTLM e CSS
